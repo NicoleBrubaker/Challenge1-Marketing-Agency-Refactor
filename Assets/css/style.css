@@ -10,7 +10,6 @@ body {
   background-color: #d9dcd6;
 }
 
-
 /* header stlying */
 header {
   padding: 20px;
@@ -28,7 +27,6 @@ header h1 {
 header h1 .seo {
   color: #d9dcd6;
 }
-
 
 /* navigation */
 nav {
@@ -49,7 +47,6 @@ a {
   text-decoration: none;
 }
 
-
 /* hero section */
 .hero {
   height: 800px;
@@ -59,7 +56,6 @@ a {
   background-size: cover;
   background-position: center;
 }
-
 
 /* left hand section: outlining Horiseons offerings */
 section {
@@ -92,7 +88,6 @@ section {
   font-size: 36px;
 }
 
-
 /* right hand section: outlining benefits */
 .benefits {
   margin-right: 20px;
@@ -121,7 +116,6 @@ section {
   max-width: 150px;
 }
 
-
 /* footer */
 footer {
   padding: 30px;
@@ -134,7 +128,6 @@ footer {
 footer h2 {
   font-size: 20px;
 }
-
 
 /* shared elements */
 .float-left {
