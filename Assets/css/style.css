@@ -1,3 +1,4 @@
+/* universal */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -9,6 +10,8 @@ body {
   background-color: #d9dcd6;
 }
 
+
+/* header stlying */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -26,6 +29,8 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+
+/* navigation */
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -44,6 +49,8 @@ a {
   text-decoration: none;
 }
 
+
+/* hero section */
 .hero {
   height: 800px;
   width: 100%;
@@ -53,6 +60,8 @@ a {
   background-position: center;
 }
 
+
+/* left hand section: outlining Horiseons offerings */
 section {
   width: 75%;
   display: inline-block;
@@ -83,6 +92,8 @@ section {
   font-size: 36px;
 }
 
+
+/* right hand section: outlining benefits */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -110,6 +121,8 @@ section {
   max-width: 150px;
 }
 
+
+/* footer */
 footer {
   padding: 30px;
   clear: both;
@@ -122,6 +135,8 @@ footer h2 {
   font-size: 20px;
 }
 
+
+/* shared elements */
 .float-left {
   float: left;
   margin-right: 25px;
